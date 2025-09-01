@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/Linkedin-difranca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/difranca)](https://www.linkedin.com/in/difranca)
 [![My Website](https://img.shields.io/badge/My%20Website-difranca.github.io-critical?style=flat-square&logo=githubsponsors&logoColor=white&link=https://difranca.github.io/)](https://difranca.github.io)
 
+- 👨‍💻 Staff Software Engineer
 - 📐 Solutions Architect
-- 👨‍💻 Lead Software Engineer
 - 🧠 Machine Learning enthusiast
 - 👨‍🎓 Electronics Engineer by training
 
